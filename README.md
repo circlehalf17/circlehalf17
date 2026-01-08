@@ -3,7 +3,7 @@
 저는 컴퓨터비전을 공부하고있는 이원빈입니다!
 
 - 🌱 I’m currently learning: 3D Vision, NeRF, 3DGS
-- 📝 Blog: [제 기술 블로그 구경오세요!](https://velog.io/@circlehalf17)
+- 📝 Blog: [제 Velog 구경오세요!](https://velog.io/@circlehalf17)
 - 📫 Email: circlehalf17@naver.com
 
 <!--
