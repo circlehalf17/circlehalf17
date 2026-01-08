@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-저는 컴퓨터비전을 공부하고있는 이원빈입니다!
+저는 인공지능을 공부하고있는 이원빈입니다!
 
 - 🌱 I’m currently learning: 3D Vision, NeRF, 3DGS
 - 📝 Blog: [제 Velog 구경오세요!](https://velog.io/@circlehalf17)
