@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+저는 컴퓨터비전을 공부하고있는 이원빈입니다!
+
+- 🌱 I’m currently learning: 3D Vision, NeRF, 3DGS
+- 📝 Blog: [제 기술 블로그 구경오세요!](https://velog.io/@circlehalf17)
+- 📫 Email: circlehalf17@naver.com
+
 <!--
 **circlehalf17/circlehalf17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
